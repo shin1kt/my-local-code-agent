@@ -27,7 +27,7 @@ scripts/try.sh qwen2.5:14b                                  # 例題を承認し
 scripts/evaluate.sh qwen2.5:14b -- --runs 1 --tasks bugfix  # 自動で評価する
 ```
 
-Linux マシンで上位モデルを評価する手順は [docs/setup-linux.md](docs/setup-linux.md) にまとめています。
+Linux マシンで上位モデルを評価する手順は [docs/setup-linux.md](docs/setup-linux.md) に、課題と採点の内容は [docs/evaluation.md](docs/evaluation.md) にまとめています。
 
 ## 4. 使い方
 
