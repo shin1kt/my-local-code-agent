@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# 評価結果と、公開しないメモ
+/results/
+/local/
+.env

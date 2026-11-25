@@ -1,0 +1,6 @@
+{
+  "title": "既存モジュールに関数を追加する",
+  "prompt": "text_utils.py に関数 slugify(text) を追加してください。英字は小文字にし、ASCIIの英数字以外の連続は1つのハイフンに置き換え、先頭と末尾のハイフンは取り除きます。結果が空になる場合は ValueError を送出します。既存の関数は変更しないでください。",
+  "protected": [],
+  "checks": ["check_feature"]
+}

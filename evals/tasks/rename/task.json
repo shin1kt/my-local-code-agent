@@ -1,0 +1,6 @@
+{
+  "title": "複数ファイルにまたがる名前変更",
+  "prompt": "関数 get_user を find_user_by_id に名前変更し、呼び出し側もすべて更新してください。名前の似た別の関数は変更しないでください。古い名前は残さないでください。",
+  "protected": [],
+  "checks": ["check_rename"]
+}

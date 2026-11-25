@@ -1,0 +1,6 @@
+{
+  "title": "失敗するテストを直す",
+  "prompt": "テストを実行し、失敗していたら stats.py を修正して、全テストを通してください。テストは変更しないでください。",
+  "protected": ["test_stats.py"],
+  "checks": ["test_stats", "check_bugfix"]
+}

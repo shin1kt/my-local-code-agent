@@ -1,0 +1,6 @@
+{
+  "title": "原因が別ファイルにあるバグを探して直す",
+  "prompt": "合計金額が正しくありません。test_order.py を実行して原因を調べ、根本原因を修正してください。テストは変更しないでください。",
+  "protected": ["test_order.py"],
+  "checks": ["test_order", "check_order"]
+}

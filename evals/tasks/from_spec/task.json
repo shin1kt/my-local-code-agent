@@ -1,0 +1,6 @@
+{
+  "title": "仕様書から新規実装する",
+  "prompt": "SPEC.md を読み、仕様どおりに実装してください。簡単な動作確認もしてください。",
+  "protected": ["SPEC.md"],
+  "checks": ["check_spec"]
+}
